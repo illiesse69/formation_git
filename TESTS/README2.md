@@ -92,7 +92,7 @@ TEST TYPE : Test case Positive / Test case Negative / Scenario E2E
 |          |               |                                      |                    |            |                         |            |
 |          |               |                                      |                    |            |                         |            |
 
-<style>
+<style scoped>
 .tg  {
   border-collapse:collapse;
   border-spacing:0;
@@ -104,7 +104,6 @@ TEST TYPE : Test case Positive / Test case Negative / Scenario E2E
   vertical-align:top;
 }
 </style>
-
 <table class="tg">
 <thead>
   <tr>
