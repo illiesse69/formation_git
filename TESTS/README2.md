@@ -1,16 +1,3 @@
-<style>
-.tg  {
-  border-collapse:collapse;
-  border-spacing:0;
-}
-
-.tg-0pky {
-  border-color:inherit;
-  text-align:left;
-  vertical-align:top;
-}
-</style>
-
 # Projet Tutoré
 
 **2 sujets sont proposés** 
