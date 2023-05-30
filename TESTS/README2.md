@@ -92,12 +92,12 @@ TEST TYPE : Test case Positive / Test case Negative / Scenario E2E
 |          |               |                                      |                    |            |                         |            |
 |          |               |                                      |                    |            |                         |            |
 
-<style scoped>
+<style>
 .tg  {
   border-collapse:collapse;
   border-spacing:0;
 }
-.tg td {
+/* .tg td {
   border-color:black;
   border-style:solid;
   border-width:1px;
@@ -117,8 +117,8 @@ TEST TYPE : Test case Positive / Test case Negative / Scenario E2E
   overflow:hidden;
   padding:10px 5px;
   word-break:normal;
-}
-.tg .tg-0pky {
+} */
+.tg-0pky {
   border-color:inherit;
   text-align:left;
   vertical-align:top;
